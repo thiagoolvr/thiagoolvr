@@ -1,7 +1,7 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=thiagoolvr&label=Profile%20views&color=a39f9f&style=flat" alt="thiagoolvr" /> </p>
+
 <h1 align="center">Hi 👋, I'm Thiago</h1>
 <h3 align="center">A brazilian student passionate about programming</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thiagoolvr&label=Profile%20views&color=a39f9f&style=flat" alt="thiagoolvr" /> </p>
 
 - 🔭 I’m currently working on **competitive programing**
 
