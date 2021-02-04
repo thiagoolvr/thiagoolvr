@@ -26,7 +26,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thiagoolvr&show_icons=true&title_color=000000&hide_border=true&cache_seconds=1000&locale=en&layout=compact" alt="thiagoolvr" />
 </a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thiagoolvr&theme=default" alt="thiagoolvr" /></p>
+<p></p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thiagoolvr&theme=default" alt="thiagoolvr" /></p>
 
 <!--
 **thiagoolvr/thiagoolvr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
