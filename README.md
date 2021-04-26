@@ -1,13 +1,11 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=thiagoolvr&label=Profile%20views&color=a39f9f&style=flat" alt="thiagoolvr" /> </p>
+<h1 align="left">Hi 👋, I'm Thiago</h1>
 
-<h1 align="center">Hi 👋, I'm Thiago</h1>
-<h3 align="center">A brazilian student passionate about programming</h3>
+[![Linkedin Badge](https://img.shields.io/badge/-Thiago_Santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagoolvr)](www.linkedin.com/in/thiagoolvr)
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/1446358/wosimosi)](https://stackoverflow.com/users/1446358/wosimosi)
+[![Gmail Badge](https://img.shields.io/badge/-tso.thiagosantos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tso.thiagosantos@gmail.com)](mailto:tso.thiagosantos@gmail.com)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/krushnatkhawale) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/krushnatkhawale)
 
-- 🔭 I’m currently working on **embedded systems programming**
-
-- 🌱 I’m currently learning **RTOS and critical systems**
-
-- 📫 How to reach me **tso.thiagosantos@gmail.com**
+<p align="left"> I am a electrical enginner student looking to solve real world problems 🌎 I’m currently working on Battery Management Systems focusing on improve the electric mobility ⚡ I have a passion for larning and sharing knowled with other as public as possible ❤️ I’m currently learning RTOS and critical systems 🧠 </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
