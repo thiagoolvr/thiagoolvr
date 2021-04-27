@@ -1,7 +1,9 @@
 <h1 align="left">Hi 👋, I'm Thiago</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Thiago_Santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagoolvr)](www.linkedin.com/in/thiagoolvr)
+[![Linkedin Badge](https://img.shields.io/badge/-Thiago_Santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagoolvr)](https://www.linkedin.com/in/thiagoolvr)
 [![Gmail Badge](https://img.shields.io/badge/-tso.thiagosantos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tso.thiagosantos@gmail.com)](mailto:tso.thiagosantos@gmail.com)
+[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@thiagoolvr)](https://medium.com/@thiagoolvr)
+[![Codeforce Badge](https://img.shields.io/badge/-Codeforces-grey?style=flat-square&logo=Codeforces&logoColor=white&link=https://codeforces.com/profile/thiago_so)](https://codeforces.com/profile/thiago_so)
 <!--
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/1446358/wosimosi)](https://stackoverflow.com/users/1446358/wosimosi)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/krushnatkhawale) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/krushnatkhawale)
