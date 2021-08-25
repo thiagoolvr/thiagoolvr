@@ -28,16 +28,16 @@
 
 <!-- Social badges section -->
 <p align="center">
-  <a href="https://twitter.com/DenverCoder1">
+  <a href="https://twitter.com/ThiagoSO_">
     <img title="Twitter" src="https://img.shields.io/badge/twitter-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="mailto:tso.thiagosantos@gmail.com">
     <img title="Gmail" src="https://img.shields.io/badge/gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/thiagoolvr">
-    <img title="YouTube views" src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a> 
+    <img title="Linkedin" src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a> 
   <a href="https://medium.com/@thiagoolvr">
-    <img alt="views" title="GitHub profile views" src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=Medium&logoColor=white"/></a>
+    <img alt="Medium" title="GitHub profile views" src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=Medium&logoColor=white"/></a>
   <a href="https://codeforces.com/profile/thiago_so">
-    <img title="Follow me on Github" src="https://img.shields.io/badge/-Codeforces-grey?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
+    <img title="Codeforces" src="https://img.shields.io/badge/-Codeforces-grey?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
 </p>
 
 ----
