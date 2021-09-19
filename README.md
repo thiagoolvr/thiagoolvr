@@ -27,29 +27,29 @@
 
 <!-- class WhoAmI -->
  ```c++
- #include <iostream.h>
- #include <string.h>
+ #include <iostream>
+ #include <string>
  
  class Thiago{
    private:
       int age = 21;
-      string city = "Belo Horizonte";
-      string course = "Electrical Engineering";
+      std::string city = "Belo Horizonte";
+      std::string field_of_study = "Electrical Engineering";
 
    public:
-      Briefing();
-      Ambitions();
+      void Briefing();
+      void Ambitions();
  };
  
  void Thiago::Briefing(){
-    cout<<"🌎 I am a electrical enginner student looking to solve real world problems "<<endl;
-    cout<<"⚡ I’m currently working on Battery Management Systems focusing on improve the electric mobility"<<endl;
-    cout<<"❤️ I have a passion for larning and sharing knowled with other as public as possible"<<endl;
-    cout<<"🧠 I’m currently learning Real Time Operating Systems and electronics as well"<<endl;
+    std::cout<<"🌎 I am a electrical enginner student looking to solve real world problems "<<std::endl;
+    std::cout<<"⚡ I’m currently working on Battery Management Systems focusing on improve the electric mobility"<<std::endl;
+    std::cout<<"❤️ I have a passion for larning and sharing knowled with other as public as possible"<<std::endl;
+    std::cout<<"🧠 I’m currently learning Real Time Operating Systems and electronics as well"<<std::endl;
  }
  
  void Thiago::Ambitions(){
-    LearnGerman();
+    LearnMandarin();
     CreateSkyNet();
     ImproveMyKnowledgeInElectronics();
  }
